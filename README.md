@@ -6,7 +6,7 @@ Guess your number game developed in HTML, CSS and Javascript.
 
 ## Flow Diagram
 
-![FLow Chart](Guess Your Number_Flow Diagram.png)
+![](./Guess%20Your%20Number_Flow%20Diagram.png)
 
 ## Links
 
